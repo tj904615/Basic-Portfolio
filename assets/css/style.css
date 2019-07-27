@@ -71,15 +71,18 @@ body {
     font-size: 30px;
     font-weight: 700;
     line-height: 90px;
-    color: #ffffff;
+    color: teal;
     text-align: center;
     text-decoration: none;
-    background: #4aaaa5;
+    background: scroll;
   }
   
   nav {
     float: right;
     margin-top: 25px;
+    background: slategray;
+    color: white;
+    width: 300px;
   }
   
   nav a {
@@ -87,7 +90,7 @@ body {
     padding-left: 15px;
     margin-left: 15px;
     line-height: 18px;
-    color: #999;
+    color: white;
     text-decoration: none;
     border-left: 1px solid #efefef;
   }
@@ -105,7 +108,7 @@ body {
     color: #ffffff;
     color: #cccccc;
     text-align: center;
-    background: #666666;
+    background: black;
     border-top: 8px solid #4aaaa5;
     height: 50px;
   }
@@ -130,8 +133,9 @@ body {
     max-width: 960px;
     padding: 30px;
     margin: 0 0 40px;
-    background: #ffffff;
+    background: tan;
     border: 1px solid #dddddd;
+    color: teal;
   }
   
   /* portfolio page */
